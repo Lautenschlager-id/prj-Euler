@@ -1,4 +1,5 @@
 -- https://projecteuler.net/problem=10
+-- • Required google research
 local num = 2000000
 
 local int = { }
